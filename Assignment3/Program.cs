@@ -19,7 +19,6 @@ namespace Assignment3
 
             //exercise 1.3
             //var xs = ys.Where(i => i % 4 == 0);
-
         }
     }
 }
