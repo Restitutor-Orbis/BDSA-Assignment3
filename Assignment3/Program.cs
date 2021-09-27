@@ -11,6 +11,7 @@ namespace Assignment3
         static void Main(string[] args)
         {
             int[] ys = new int[] {1,2,3,4,5,6,7, 49, 56, 60};
+            
             //exercise 1.1
             //var xs = ys.SelectMany(i => i);
 
